@@ -1,0 +1,8 @@
+0c1090ec89a3181300dbeaa92861e1f5 *DESCRIPTION
+a0f8f9bc8f1b259815801652e48fc99d *NAMESPACE
+516235ad67b071596aa4d9f8b2438a2c *R/phitosanitarycalculator.R
+56cd0f0a85ac2574ef1caf6b7b06ceee *R/zzz.R
+1c0002027b126cee02a3313f16c04180 *man/PhytosanitaryCalculator-package.Rd
+b57a0d1e8d8b7ed8b76ff16b80a2d699 *man/run_app.Rd
+517b990b7c0d58449ae4714115768fed *tests/testthat.R
+9e36107ae3e72dbd374e9624e4e29243 *tests/testthat/test-run_app.R
