@@ -3,5 +3,7 @@
 export(run_app)
 import(AcceptanceSampling)
 import(shiny)
+importFrom(grDevices,dev.off)
+importFrom(grDevices,png)
 importFrom(graphics,abline)
 importFrom(graphics,grid)
